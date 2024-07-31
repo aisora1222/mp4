@@ -1,0 +1,82 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "title": "Things to Buy"
+    },
+    {
+      "id": 2,
+      "title": "Friend's Birthday"
+    },
+    {
+      "id": 3,
+      "title": "Fixed Payment"
+    },
+    {
+      "id": 4,
+      "title": "Things to Do"
+    },
+    {
+      "id": 5,
+      "title": "Car Parts"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "listId": 1,
+      "title": "Water",
+      "quantity": 1,
+      "price": 4.99
+    },
+    {
+      "id": 2,
+      "listId": 1,
+      "title": "Bread",
+      "quantity": 1,
+      "price": 3.99
+    },
+    {
+      "id": 3,
+      "listId": 2,
+      "title": "Water",
+      "quantity": 1,
+      "price": 4.99
+    },
+    {
+      "id": 4,
+      "listId": 3,
+      "title": "Rent",
+      "quantity": 1,
+      "price": 2500.00
+    },
+    {
+      "id": 5,
+      "listId": 4,
+      "title": "Pay Application Fee",
+      "quantity": 1,
+      "price": 30.25
+    },
+    {
+      "id": 6,
+      "listId": 1,
+      "title": "Ramen",
+      "quantity": 1,
+      "price": 3.99
+    },
+    {
+      "id": 7,
+      "listId": 4,
+      "title": "Electric Fee",
+      "quantity": 4,
+      "price": 129.00
+    },
+    {
+      "id": 8,
+      "listId": 5,
+      "title": "Muffler",
+      "quantity": 1,
+      "price": 130.00
+    }
+  ]
+}
